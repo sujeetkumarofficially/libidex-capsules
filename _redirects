@@ -1,0 +1,46 @@
+# Cloudflare Pages - permanent (301) redirects for libidex.net.in
+# Is file ko website ki ROOT folder me '_redirects' naam se rakhein (koi extension nahi).
+# Format:  /purana-url   /naya-url   301
+
+/libidex-capsules-hindi/ /libidex-kya-hai/ 301
+/libidex-capsules-hindi /libidex-kya-hai/ 301
+/libidex-capsule-uses-side-effects-hindi/ /%E0%A4%B2%E0%A4%BF%E0%A4%AC%E0%A4%BF%E0%A4%A1%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B8-%E0%A4%95%E0%A5%88%E0%A4%AA%E0%A5%8D%E0%A4%B8%E0%A5%82%E0%A4%B2-%E0%A4%95%E0%A5%87-%E0%A4%AB%E0%A4%BE%E0%A4%AF%E0%A4%A6%E0%A5%87-%E0%A4%94%E0%A4%B0-%E0%A4%A8%E0%A5%81%E0%A4%95%E0%A4%B8%E0%A4%BE%E0%A4%A8/ 301
+/libidex-capsule-uses-side-effects-hindi /%E0%A4%B2%E0%A4%BF%E0%A4%AC%E0%A4%BF%E0%A4%A1%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B8-%E0%A4%95%E0%A5%88%E0%A4%AA%E0%A5%8D%E0%A4%B8%E0%A5%82%E0%A4%B2-%E0%A4%95%E0%A5%87-%E0%A4%AB%E0%A4%BE%E0%A4%AF%E0%A4%A6%E0%A5%87-%E0%A4%94%E0%A4%B0-%E0%A4%A8%E0%A5%81%E0%A4%95%E0%A4%B8%E0%A4%BE%E0%A4%A8/ 301
+/how-to-take-libidex-capsule-in-hindi/ /hi/libidex-capsule-kaise-use-kare/ 301
+/how-to-take-libidex-capsule-in-hindi /hi/libidex-capsule-kaise-use-kare/ 301
+/faq-hindi/ /libidex-kya-hai/ 301
+/faq-hindi /libidex-kya-hai/ 301
+/how-to-take-libidex-capsule-telugu/ / 301
+/how-to-take-libidex-capsule-telugu / 301
+/libidex-capsule-tamil/ / 301
+/libidex-capsule-tamil / 301
+/libidex-capsule-telugu/ / 301
+/libidex-capsule-telugu / 301
+/libidex-capsule-uses-benefits/ /libidex-capsule-uses-in-hindi/ 301
+/libidex-capsule-uses-benefits /libidex-capsule-uses-in-hindi/ 301
+/faq-english/ / 301
+/faq-english / 301
+/libidex-capsule-uses-in-telugu/ /libidex-tablet-uses-in-telugu/ 301
+/libidex-capsule-uses-in-telugu /libidex-tablet-uses-in-telugu/ 301
+/how-to-take-libidex-capsule-tamil/ / 301
+/how-to-take-libidex-capsule-tamil / 301
+/libidex-capsule-uses-tamil/ /libidex-tablet-uses-in-tamil/ 301
+/libidex-capsule-uses-tamil /libidex-tablet-uses-in-tamil/ 301
+/libidex-capsule-kannada/ / 301
+/libidex-capsule-kannada / 301
+/blogs/ / 301
+/blogs / 301
+/libidex-capsule-side-effects-in-telugu/ / 301
+/libidex-capsule-side-effects-in-telugu / 301
+/libidex-capsule-malayalam/ / 301
+/libidex-capsule-malayalam / 301
+/libidex-capsule-bengali/ / 301
+/libidex-capsule-bengali / 301
+/faq-bengali/ / 301
+/faq-bengali / 301
+/faq-tamil/ / 301
+/faq-tamil / 301
+/libidex-gold-capsule-uses-in-hindi-2/ /libidex-gold-capsule-uses/ 301
+/libidex-gold-capsule-uses-in-hindi-2 /libidex-gold-capsule-uses/ 301
+/how-to-take-libidex-capsule-malayalam/ / 301
+/how-to-take-libidex-capsule-malayalam / 301
